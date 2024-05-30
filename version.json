@@ -1,1 +1,6 @@
-
+{
+  "version": "1.0.1",
+  "description": "Minor bug fixes and performance improvements.",
+  "app_download_url_android": "https://your-github-repository/releases/latest/download/app-release.apk",
+  "app_store_url_ios": "https://itunes.apple.com/app/your-app-id"
+}
